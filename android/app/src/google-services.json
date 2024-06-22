@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1012152431846",
+    "project_id": "vegy-ba5ec",
+    "storage_bucket": "vegy-ba5ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012152431846:android:12270191f865ad93adb727",
+        "android_client_info": {
+          "package_name": "com.ebroker.wrteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012152431846-9he6bmu2b1aq1q5tkrjqcovtds26649d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebroker.wrteam",
+            "certificate_hash": "fde96400219e3680ada420c94ac7fb1aa038a698"
+          }
+        },
+        {
+          "client_id": "1012152431846-leou3v0a6p30iuomh9lcdar0d5at39fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebroker.wrteam",
+            "certificate_hash": "639be3c8bb53bf5e42eb6770651de0a0e4429cab"
+          }
+        },
+        {
+          "client_id": "1012152431846-oh6jvst9g9nultb1q0dq81gdncbso73k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRg2ngj8C2TdJIYjSvHolNtg1V2IAK9W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012152431846-oh6jvst9g9nultb1q0dq81gdncbso73k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012152431846-2jckgm8a9nft2r4opd2hh9rbjjnirp4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ebroker.wrteam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

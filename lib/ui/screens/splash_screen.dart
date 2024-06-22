@@ -132,9 +132,9 @@ class SplashScreenState extends State<SplashScreen>
       "language": isLanguageLoaded
     }).logg;
 
-    if (isTimerCompleted && isSettingsLoaded && isLanguageLoaded) {
+    // if (isTimerCompleted && isSettingsLoaded && isLanguageLoaded) {
       navigateToScreen();
-    }
+    // }
   }
 
   void completeProfileCheck() {
